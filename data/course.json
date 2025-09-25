@@ -1,0 +1,64 @@
+{
+  "term": "Fall",
+  "year": "2014",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "African History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "History of Science and Technology"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Ethnography"
+    ],
+    [
+      "Business",
+      "Innovation"
+    ],
+    [
+      "Society",
+      "The Developing World"
+    ]
+  ],
+  "legacy_uid": "9871d472-d4cc-8d92-8c83-dce4950449df",
+  "instructors": {
+    "content": [
+      "b29dfde9-461b-0ecf-4d34-e3d4a91bacf1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ecc4410b-90b6-5389-c0d9-5da4a42ba6ac",
+    "website": "sts-089-technology-and-innovation-in-africa-fall-2014"
+  },
+  "course_title": "Technology and Innovation in Africa",
+  "hide_download": true,
+  "course_description": "What do technology and innovation mean from Africa? This is the central question of this course, which tackles a double absence: Of the meanings and role of technology in African history, on the one hand, and of Africa's place in the global history of technology, on the other. This course alternates between technologies from outside and technologies from within Africa and their itineraries in everyday life, and it is designed to provide students with grounded understandings of technology in Africa for intellectual and action-oriented purposes.\n",
+  "department_numbers": [
+    "STS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "STS.089",
+  "course_image_thumbnail": {
+    "content": "989b7c9d-9256-3e52-2314-e97da99d8dc7",
+    "website": "sts-089-technology-and-innovation-in-africa-fall-2014"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "19283693-da9e-4518-9402-d9a4126dc456",
+  "site_short_id": "sts.089-fall-2014",
+  "site_url_path": "courses/sts-089-technology-and-innovation-in-africa-fall-2014",
+  "title": "Course Metadata"
+}
